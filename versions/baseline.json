@@ -6948,6 +6948,10 @@
       "baseline": "1.0.2",
       "port-version": 0
     },
+    "neoactivemq-cpp": {
+      "baseline": "1.1.2",
+      "port-version": 0
+    },
     "neon2sse": {
       "baseline": "2026-04-28",
       "port-version": 0
